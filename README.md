@@ -8,6 +8,10 @@
   dump1090-mutability (https://github.com/mutability/dump1090)
 - PHP and MySQL installed and running
 
+## What is a flight?
+
+- In my definition the combination of one ICAO24 code with ohne callsign per day
+
 ## Start
 
 - open a commandline:
